@@ -1,0 +1,15 @@
+{
+  "repository": "module-analytics-contracts-nuxt",
+  "capabilityKey": "liberusoftware/analytics-contracts",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-analytics-contracts-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/analytics-contracts.md",
+  "presentationPlan": "projects/crm/nuxt/analytics-contracts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
